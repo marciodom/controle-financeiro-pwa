@@ -2,7 +2,7 @@
   "name": "Controle Financeiro Pessoal",
   "short_name": "Finanças",
   "description": "Aplicativo para controle de receitas e despesas com histórico mensal e anual",
-  "start_url": "/",
+  "start_url": "./",
   "display": "standalone",
   "background_color": "#0c1a2d",
   "theme_color": "#1a365d",
